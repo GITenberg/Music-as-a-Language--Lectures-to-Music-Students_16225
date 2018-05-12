@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '6547'
     url: http://www.gutenberg.org/2009/agents/6547
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16225#Music-as-a-Language--Lectures-to-Music-Students
 gutenberg_bookshelf: Music
 gutenberg_issued: '2005-07-06'
 gutenberg_type: Text
